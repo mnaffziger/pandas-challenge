@@ -34,7 +34,7 @@ Overall, a large majority of the district's school students are passing their ma
 ## Discussion/Conclusion
 The data analysis represented here clearly suggests two things:
 1. Schools with less students perform better in assessments
-2. Charter schools are better at utilizing their resources (budget) in educating their students- as evidenced in a drastically higher overall passing rates compared to distric schools
+2. Charter schools are better at utilizing their resources (budget) in educating their students- as evidenced in a drastically higher overall passing rates compared to district schools
 
 Though these trends appear clear, they should be analyzed furthur before reporting this information to governing bodies/stakeholers.  For instance, when the average math and reading scores were calculated, the student population was not directly considered.  These geometric means were considered at equal weight- eventhough the charter schools routinely have lower student couonts than the distric schools.
 
